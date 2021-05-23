@@ -1,4 +1,3 @@
-# NLW5-TRILHA-NODEJS
 
 # 💻 Sobre projeto
 O Chatty é um chat para atendimento de clientes em tempo real.
